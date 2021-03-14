@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Azure Data Platform
 
-I'm glad you are here. I plan to talk about ...
+Power of Microsoft SQL Server and Open Source Big Data Platform are demonstrated here 
